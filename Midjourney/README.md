@@ -1,4 +1,6 @@
-# Midjourney Prompt Engineering
+Here’s the updated Table of Contents with the new chapter on using prompt patterns for text-to-image generation with AI tools added near the end of the book:
+
+---
 
 ### **Table of Contents**
 
@@ -123,7 +125,58 @@
    - **Exercise:** Creating Visual Assets for Video
    - Summary of Video Image Creation
 
-#### **13. Conclusion and Sample Images**
+#### **13. Using Prompt Patterns for Text-to-Image Generation with AI Tools**
+   - Overview of Applying Prompt Patterns for Visual Content
+   -  Persona Pattern**  
+Using the Persona Pattern for text-to-image generation can create visuals that reflect specific personas or characters. This section provides examples and applications using tools like ChatGPT, Claude, Bing, and Gemini.
+
+   -  Audience Persona Pattern**  
+The Audience Persona Pattern helps tailor image prompts to specific target audiences. This section covers how to leverage this pattern with AI tools for enhanced results in visual content.
+
+   -  Flipped Interaction Pattern**  
+The Flipped Interaction Pattern is used to create dynamic visuals that respond to interactive prompts. Learn how to collaborate with AI tools like ChatGPT to generate engaging and responsive images.
+
+   -  Game Play Pattern**  
+The Game Play Pattern is ideal for generating interactive visual content. This section demonstrates how to utilize AI tools to create visually engaging game elements and scenarios.
+
+   -  Template Pattern**  
+The Template Pattern ensures consistent image outputs by following predefined structures. This section explains how to automate image generation using ChatGPT, Claude, and other AI tools.
+
+   -  Meta Language Creation Pattern**  
+Building complex visuals with the Meta Language Creation Pattern involves refining and executing visual prompts using AI tools. This section covers best practices and examples.
+
+   -  Recipe Pattern**  
+The Recipe Pattern provides a step-by-step approach to image creation. Learn how to enhance your workflow by integrating AI tools into your visual content generation process.
+
+   -  Alternative Approaches Pattern**  
+Exploring diverse visual styles with the Alternative Approaches Pattern allows for unique image generation. This section details AI-assisted prompt variation techniques.
+
+   -  Ask for Input Pattern**  
+Interactive visual prompting with the Ask for Input Pattern enhances user engagement. This section explores how to use AI tools to create interactive and responsive visuals.
+
+   -  Outline Expansion Pattern**  
+Structuring detailed visuals with the Outline Expansion Pattern ensures comprehensive image development. Learn how to leverage AI tools to develop detailed and intricate visual content.
+
+   -  Menu Actions Pattern**  
+The Menu Actions Pattern is used for creating navigable visual interfaces. This section explains how to streamline image generation with AI collaboration.
+
+   -  Fact Check List Pattern**  
+Ensuring accuracy in visual content is crucial. The Fact Check List Pattern, combined with AI tools, helps verify and generate consistent and reliable visuals.
+
+   -  Tail Generation Pattern**  
+The Tail Generation Pattern extends visual concepts, allowing for the continuation and expansion of ideas. This section covers how to use AI to further develop and refine visual prompts.
+
+   -  Semantic Filter Pattern**  
+Filtering and refining visual prompts is essential for managing complex criteria. The Semantic Filter Pattern, when applied with AI tools, helps to manage and refine visual content.
+
+   -  Helpful Assistant Pattern**  
+Using AI as a visual creation assistant with the Helpful Assistant Pattern allows for responsive and accurate image generation. This section details how to integrate AI tools to support and enhance the visual creation process.
+
+   -  Using Prompt Patterns for Text-to-Image Generation with AI Tools**  
+This section provides an overview of applying prompt patterns for visual content creation, with a step-by-step guide on using ChatGPT, Claude, Bing, and Gemini. It includes case studies and examples of successful implementations, best practices for integrating AI tools with prompt patterns, and a summary with tips for effective text-to-image generation.
+
+
+#### **14. Conclusion and Sample Images**
    - Samples of My Prompts and Images
    - That’s a Wrap
 
