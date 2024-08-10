@@ -1,11 +1,9 @@
-Here’s the updated Table of Contents with the new chapter on using prompt patterns for text-to-image generation with AI tools added near the end of the book:
-
----
+# Midjourney Prommpt Patterns
 
 ### **Table of Contents**
 
 #### **1. Midjourney Basics**
-   - Introduction to Midjourney
+   - What is Midjourney?
    - Midjourney Versions Overview
    - Understanding Prompts: The Language of MJEnglish
    - Basic Prompt Structure and Parameters
@@ -177,8 +175,7 @@ This section provides an overview of applying prompt patterns for visual content
 
 
 #### **14. Conclusion and Sample Images**
-   - Samples of My Prompts and Images
-   - That’s a Wrap
+   - Midjourney Gallery
 
 #### **Appendices**
    - **Appendix A:** Styles and Descriptions
