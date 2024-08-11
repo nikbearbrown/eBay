@@ -7,7 +7,6 @@
 1. **Quick Start**
       - What is Midjourney?
     - Log-in to Discord
-   - Log-in to Discord
    - Use /imagine
      - How to Use /imagine
    - Take a screenshot from [Zebonastic.ai Instagram](https://www.instagram.com/zebonastic.ai/) and use the /describe function
