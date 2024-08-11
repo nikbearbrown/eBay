@@ -1,13 +1,22 @@
 # Midjourney Prommpt Patterns
 
+**Midjourney Prompt Patterns and Image Creation Guide**
+
 ### Table of Contents
 
-1. **Introduction**
-   - Overview of Midjourney and its capabilities.
-   - Purpose of the guide.
+1. **Quick Start**
+      - What is Midjourney?
+    - Log-in to Discord
+   - Log-in to Discord
+   - Use /imagine
+     - How to Use /imagine
+   - Take a screenshot from [Zebonastic.ai Instagram](https://www.instagram.com/zebonastic.ai/) and use the /describe function
+   - Input this prompt in /imagine:
+     - "29w Rapunzel, Grimm's, full body, photography by Annie Leibovitz, hyperrealist, show finest tonal separations and very low noise with a natural and elegant look, richness, epic dramatic, Photorealistic, kinetic, Fujifilm Chrome filter style, close up shot, high details, editorial, action movement motion drama, Robert Mapplethorpe, soft light, legendary Noctilux M 50mm f/0.95 Leica M lens, detailed, 40s style, glamorous, and saturation use dark and light micro contrasts to create depth, captivating gaze, ultra high resolution, dynamic composition, backlight, vogue, daylight, clear, symmetrical, fashion cover, Cinematic lighting, focused, Fashion Magazine photography, fashion, Three point lighting chaos 5 s 750 q 5 upbeta v 5, front view full body shot, Iconic state of the art digital Full frame rangefinder photography Leica M11 60MP, sharp --ar 2:3"
+   - Use /shorten to find the important keywords and try a shorter version and compare it to the original
+   - Render it in 3:2 and 16:9 aspect ratios
 
-2. **Midjourney Basics**
-   - What is Midjourney?
+3. **Midjourney Basics**
    - Midjourney Versions Overview
    - Understanding Prompts: The Language of MJEnglish
    - Basic Prompt Structure and Parameters
@@ -17,7 +26,7 @@
    - Exercise: Crafting Your First Prompts
    - Summary of Basic Concepts
 
-3. **Essential Parameters and Techniques**
+4. **Essential Parameters and Techniques**
    - Multi-Prompts: Combining Ideas for Complex Results
    - Using Negative Weights: What to Include and Exclude
    - Upscaling Techniques
@@ -28,7 +37,7 @@
    - Exercise: Experimenting with Essential Parameters
    - Summary of Essential Techniques
 
-4. **Prompt Templates**
+5. **Prompt Templates**
    - Introduction to Prompt Templates
    - Basic Prompt Templates for Beginners
    - Intermediate Prompt Templates: Combining Elements
@@ -60,7 +69,7 @@
    - Exercise: Designing Custom Prompt Templates
    - Summary of Prompt Template Techniques
 
-5. **Creating Consistent and High-Quality Images**
+6. **Creating Consistent and High-Quality Images**
    - Consistent Characters: Techniques and Tools
    - Image Prompts and Style References
    - Character Sheets, Pan, and Zoom Out
@@ -70,7 +79,7 @@
    - Exercise: Achieving Consistency in Your Projects
    - Summary of Consistency and Quality Techniques
 
-6. **Exploring and Enhancing Artistic Styles**
+7. **Exploring and Enhancing Artistic Styles**
    - Gauging the Effectiveness of Your Prompts
    - Setting the Right Tone: Emotion and Atmosphere in Images
    - Include Artists and Photographers in Prompts
@@ -83,7 +92,7 @@
    - Exercise: Exploring Different Artistic Styles
    - Summary of Artistic Style Exploration
 
-7. **Illustration Techniques**
+8. **Illustration Techniques**
    - Prompts and Series of Images As AI Art Form
    - Aspects of Image Prompting: From Concept to Execution
    - Using Existing Images As Your Base (Multimedia Prompts)
@@ -95,7 +104,7 @@
    - Exercise: Creating Illustrative Art with Midjourney
    - Summary of Illustration Techniques
 
-8. **Photography Techniques**
+9. **Photography Techniques**
    - Using Existing Images As Your Base (Multimedia Prompts)
    - Vary(Subtle)
    - Vary(Strong): Remixing with Prompt Changes
@@ -105,7 +114,7 @@
    - Exercise: Crafting Photographic Art with Midjourney
    - Summary of Photography Techniques
 
-9. **Leveraging AI for Creative Prompting**
+10. **Leveraging AI for Creative Prompting**
    - Use AI for Prompt Creation
    - Writing Prompts with ChatGPT and Gemini
    - Teaching AI with Your Prompts
@@ -116,7 +125,7 @@
    - Exercise: Collaborating with AI for Prompt Generation
    - Summary of AI-Powered Creative Prompting
 
-10. **Creating a Coloring Book**
+11. **Creating a Coloring Book**
     - Conceptualizing Your Coloring Book
     - Choosing Themes and Subjects
     - Creating Line Art with Midjourney
@@ -124,7 +133,7 @@
     - Exercise: Designing a Page for Your Coloring Book
     - Summary of Coloring Book Creation
 
-11. **Creating a Fashion Magazine**
+12. **Creating a Fashion Magazine**
     - Designing the Layout: Fashion Spread Ideas
     - Using Midjourney to Create High-Fashion Imagery
     - Styling and Accessorizing with AI Prompts
@@ -132,7 +141,7 @@
     - Exercise: Creating a Fashion Spread
     - Summary of Fashion Magazine Creation
 
-12. **Creating a Graphic Novel**
+13. **Creating a Graphic Novel**
     - Developing Characters and Storyboards
     - Creating Consistent Scenes and Panels with Midjourney
     - Integrating Text and Dialogue with Visuals
@@ -140,7 +149,7 @@
     - Exercise: Designing a Graphic Novel Page
     - Summary of Graphic Novel Creation
 
-13. **Creating Images for Video**
+14. **Creating Images for Video**
     - Understanding Image Sequences for Video Production
     - Using Midjourney to Create Backgrounds and Assets
     - Enhancing Scenes with Visual Effects Prompts
@@ -148,7 +157,7 @@
     - Exercise: Creating Visual Assets for Video
     - Summary of Video Image Creation
 
-14. **Using Prompt Patterns for Text-to-Image Generation with AI Tools**
+15. **Using Prompt Patterns for Text-to-Image Generation with AI Tools**
     - Overview of Applying Prompt Patterns for Visual Content
     - **Persona Pattern**
     - **Audience Persona Pattern**
@@ -166,9 +175,22 @@
     - **Semantic Filter Pattern**
     - **Helpful Assistant Pattern**
 
-15. **Conclusion**
+16. **Creating Your Own Discord Server and Integrating the Midjourney Bot**
+    - Step 1: Create a Discord Server
+    - Step 2: Invite Midjourney Bot to Your Server
+    - Step 3: Configure Bot Permissions
+    - Step 4: Test the Bot
+    - Step 5: Learn Bot Commands and Features
+    - Step 6: Manage Your Server
+
+17. **Conclusion**
     - Recap of Key Points
     - Encouragement to Explore Further
     - Final Tips for Success
     - Midjourney Gallery
+
+18. **Appendices**
+    - Book GitHub
+    - **Appendix D: Fairycore, Grungecore, and Dark Academia: Midjourney’s Vocabulary**
+
 
