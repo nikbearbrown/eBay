@@ -1,4 +1,4 @@
-# Midjourney Prommpt Patterns
+# Midjourney Prompt Patterns
 
 **Midjourney Prompt Patterns and Image Creation Guide**
 
