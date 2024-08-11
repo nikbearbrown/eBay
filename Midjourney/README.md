@@ -1,5 +1,7 @@
 # Midjourney Prompt Patterns
 
+Write this chapter. It should be detailed and comprehensive with examples. 
+
 **Midjourney Prompt Patterns and Image Creation Guide**
 
 ### Table of Contents
